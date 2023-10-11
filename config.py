@@ -1,0 +1,3 @@
+userid = 352880414819614722
+discordtoken = "ODYzODkyNDkwMDI0Mzg2NTkx.GvoPOa.ikIv24U7wCuiKgQKWrLjBBLX5N4qHCJ-dROs-4"
+channelid = 863893244164440064
